@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CitiCorporateMarketing/FileContentIndex
+/.vs/CitiCorporateMarketing/v17
+/.vs
+CCMS/public/web.config
+/CCMS/.vs
+CCMS/vite.config.js
+vendor
+composer
+composer.lock
